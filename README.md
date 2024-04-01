@@ -3,7 +3,7 @@
 ### Introduction
 ResGenRegNet represents a transformative state-of-art approach in the early detection of lung cancer, leveraging the power of artificial intelligence (AI). Developed as part of a dissertation at Cardiff School of Technologies, Cardiff Metropolitan University, this AI model utilizes residual learning and deep convolutional neural networks (CNNs) to enhance the accuracy and efficiency of lung cancer detection from computed tomography (CT) scans. The innovation lies in its unique architecture that incorporates L2 regularization and dropout techniques across all layers, including shortcut connections, to tackle the challenges of imbalanced datasets and ensure robust generaliza Model Highlights
 - **Enhanced Accuracy**: Attains remarkable diagnostic precision with an average test accuracy of 98% across various cross-validation folds.
-- **Advanced Architecture**: Features L2 regularization and dropout across all layers, including shortcut connections, setting it apart from traditional models.
+- **Advanced Architecture**: Features L2 regularization and dropout across all layers, including shortcut connections, setting it apart from other models.
 - **Robust Dataset Utilization**: Employs a comprehensive dataset from [https://data.mendeley.com/datasets/bhmdr45bh2/4], , demonstrating its effectiveness across diverse patient demographics.
 - **Future-Ready**: Paves the way for further AI advancements in medical diagnostics, offering a promising tool for early lung cancer screening and diagnosis.
 
