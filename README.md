@@ -13,7 +13,8 @@ ResGenRegNet's methodology encompasses several stages: data collection, preproce
 ### Conclusions and Future Directions
 The ResGenRegNet model significantly advances the integration of AI in lung cancer detection, overcoming key challenges in dataset imbalance and model generalization. Its development not only contributes to the field of medical diagnostics but also sets a new benchmark for future research. Moving forward, efforts will focus on expanding computational resources, broadening data collection, and refining model adaptability to enhance its applicability and effectiveness in real-world clinical settings.
 
-
+### Training and validation Curve
+![image](https://github.com/user-attachments/assets/ce59657c-18a3-4edc-ada8-52cc6c3f4fe6)
 
 ### Acknowledgments
 This work has been accomplished with the support and guidance of Dr. Sandeep Singh Sengar at Cardiff School of Technologies, Cardiff Metropolitan University.
